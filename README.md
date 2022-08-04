@@ -1,0 +1,2 @@
+# Linuxcommands
+ls pwd
